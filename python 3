@@ -1,0 +1,5 @@
+my_string='geeksforgeeks'
+print(my_string[:3])
+print(my_string[1:5:2])
+print(my_string[-1:-12:-2])
+
